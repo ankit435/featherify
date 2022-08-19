@@ -1,0 +1,5 @@
+CONFIGURATION = "css"
+
+WIDTH = 30
+
+HEIGHT = 30

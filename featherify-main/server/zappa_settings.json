@@ -1,0 +1,13 @@
+{
+    "production": {
+        "django_settings": "featherify.settings",
+        "profile_name": null,
+        "project_name": "server",
+        "runtime": "python3.8",
+        "s3_bucket": "zappa-featherify",
+        "aws_region": "us-east-2",
+        "environment_variables": {
+            "DEBUG": "FALSE"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "projectName": "featherify",
+  "version": "3.0",
+  "frontend": "javascript",
+  "javascript": {
+    "framework": "react",
+    "config": {
+      "SourceDir": ".",
+      "DistributionDir": "build",
+      "BuildCommand": "yarn production-build",
+      "StartCommand": "yarn start"
+    }
+  },
+  "providers": [
+    "awscloudformation"
+  ]
+}
